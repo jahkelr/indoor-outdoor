@@ -19,3 +19,6 @@ How to use the classifier:
 How to run unit test:
 
  Unit test can be run by using the following command: python3 unit_tests.py
+ 
+ Enviornment should be equipped with python3 and tensorflow
+ pip3 install --user --upgrade tensorflow  # install in $HOME
